@@ -1,28 +1,17 @@
 <div align="center">
 
-  <!-- Animated ocean header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a2540,50:1238ab,100:4fc3f7&height=240&section=header&text=Aphros%20%7C%20New%20Tab&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=In%20memory%20of%20those%2C%20who%20chose%20the%20sea.&descAlignY=62&descSize=20" width="100%" alt="Aphros animated wave header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1a,50:112240,100:1a3a5c&height=220&section=header&text=Aphros%20%7C%20New%20Tab&fontSize=48&fontColor=C9D6DF&animation=fadeIn&fontAlignY=38&desc=In%20memory%20of%20those%2C%20who%20chose%20the%20sea&descAlignY=60&descSize=18" width="100%" alt="Aphros animated wave header" />
 
-  <!-- Typing shanty -->
-  <a href="https://github.com/anomalyco/opencode">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4FC3F7&center=true&vCenter=true&width=800&lines=Hoist+the+colours...;Every+new+tab+is+a+new+horizon.;20+wallpapers+%E2%80%A2+10+lofi+tides+%E2%80%A2+21+typefaces;Your+helm.+Your+sea.+Your+shanty." alt="Typing animation" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=40&pause=1500&color=C9D6DF&center=true&vCenter=true&width=700&height=60&lines=%E2%9A%93+Aphros+%7C+New+Tab" alt="Aphros | New Tab" />
+
+  <img src="https://readme-typing-svg.demolab.com?font=Lora&size=18&pause=2000&color=6B8BA4&center=true&vCenter=true&width=620&height=40&lines=Every+new+tab+is+a+voyage.+Dark+seas.+Old+songs.+Quiet+fog." alt="Every new tab is a voyage. Dark seas. Old songs. Quiet fog." />
 
   <p>
-    <img src="https://img.shields.io/badge/version-2.5-0288d1?style=for-the-badge&logo=sailship&logoColor=white" alt="version"/>
-    <img src="https://img.shields.io/badge/manifest-v3-0a2540?style=for-the-badge&logo=googlechrome&logoColor=white" alt="manifest v3"/>
-    <img src="https://img.shields.io/badge/react-powered-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="react"/>
-    <img src="https://img.shields.io/badge/vite-bundled-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="vite"/>
-    <img src="https://img.shields.io/badge/license-sea%20lore-4fc3f7?style=for-the-badge&logo=anchor&logoColor=white" alt="license"/>
-  </p>
-
-  <p>
-    <b>🌊 A cinematic, sea-shanty new-tab experience for Chrome 🌊</b><br/>
-    <i>Clock & tide & shanty & shortcuts — all aboard a single horizon.</i>
-  </p>
-
-  <p>
-    ⚓🌊🐚🌊⚓🌊🐚🌊⚓🌊🐚🌊⚓
+    <img src="https://img.shields.io/badge/Chrome-Extension-0a0f1a?style=for-the-badge&logo=googlechrome&logoColor=C9D6DF" alt="Chrome Extension" />
+    <img src="https://img.shields.io/badge/Manifest-V3-112240?style=for-the-badge&logoColor=C9D6DF" alt="Manifest V3" />
+    <img src="https://img.shields.io/badge/Version-2.5-1a3a5c?style=for-the-badge" alt="Version 2.5" />
+    <img src="https://img.shields.io/badge/Tracking-None-2a4a6a?style=for-the-badge" alt="No tracking" />
+    <img src="https://img.shields.io/badge/Made_With-Soul-6B8BA4?style=for-the-badge" alt="Made with soul" />
   </p>
 
 </div>
@@ -35,265 +24,137 @@
 
 <div align="center">
 
-## 🌅 What is Aphros?
+  <img src="system/aphros.png" width="160" alt="Aphros logo" />
+
+  <br />
+  <sub><i>Your new tab. A ship deck under moonlight.</i></sub>
+
+  <!-- Add screenshots here, e.g.:
+    docs/preview-sea.png      — glass clock over the sea
+    docs/preview-shanty.png   — shanty player open
+    docs/preview-harbour.png  — shortcuts + search
+  -->
 
 </div>
-
-**Aphros** replaces Chrome's cold, blank new-tab page with a living seascape. Open a tab and you're on deck: a glass-etched clock over rolling wallpapers, a whisper-quiet lofi tide, salt-worn typefaces, and your shortcuts rigged like lanterns — ready to sail.
-
-No accounts. No tracking. No bloat. Just wind, foam, and focus.
-
-<table align="center">
-<tr>
-<td align="center">🎨<br/><b>Cinematic</b><br/><sub>glass text, canvas &<br/>light modes</sub></td>
-<td align="center">🌊<br/><b>Alive</b><br/><sub>20 wallpapers,<br/>10 lofi tides</sub></td>
-<td align="center">⚡<br/><b>Fast</b><br/><sub>local-first,<br/>Manifest V3</sub></td>
-<td align="center">🧭<br/><b>Yours</b><br/><sub>shortcuts, fonts,<br/>colors, sounds</sub></td>
-</tr>
-</table>
 
 ---
 
+## 🌊 What Is Aphros?
+
+**Aphros** replaces your Chrome new tab with the sea.
+
+No dashboards. No feeds. No widgets fighting for your eyes. Just dark water under the moon, a clock made of frosted glass, and somewhere below deck — the crew is singing.
+
+It was built for the ones who stare at the ocean and feel something they can't name. Every time you open a new tab, the fog rolls in. Waves catch silver. The internet goes quiet. And for a breath, you're standing at the bow of a ship that left port a long time ago.
+
+**No accounts. No analytics. No tracking. Just wind, foam, and focus.**
+
+---
+
+## ⚓ What You'll Find Aboard
+
 <div align="center">
 
-## ✨ Features — The Ship's Manifest
+| | |
+|:--:|---|
+| 🕐 | **A Clock of Frosted Glass** — large, translucent, floating over the horizon. The date sits beneath it like a captain's log entry. |
+| 🔍 | **A Search Bar That Knows Its Place** — barely visible until you need it. The view always comes first. |
+| 📌 | **Your Own Harbour** — pin the places you sail to most. Add, rename, rearrange. Small lanterns along the dock. |
+| 🎵 | **The Crew Below Deck** — a built-in shanty player. *Randy Dandy Oh. Drunken Sailor. Santiana. Bonny Ship the Diamond.* Real working songs, with play, pause, skip and volume. |
+| 🎨 | **Make It Yours** — fonts, colors, dark / light readability, soft UI sounds. Enough to feel like home without breaking the calm. |
+| 🌅 | **The Sea Wall** — a rotating collection of ocean scenes. Moonlit water, fog banks, distant storms, dawn through grey clouds. Each new tab, a different voyage. |
 
 </div>
 
-<details open>
-<summary><b>🕰️ Clock, Date & Typography</b></summary>
-<br/>
-
-- Glass-text clock with drop-glow, plus light / dark / canvas readability modes
-- Date + clock that adapt shadows for bright or stormy wallpapers
-- **21 ship-log typefaces** — from `EB Garamond` and `Instrument Serif` to `Minecraft`, `Powerpuff`, `Caesar Dressing`, `Star Vintage`, `Bricolage Grotesque`, `Space Mono`, `Digital`, `American Typewriter` and more
-- Canvas-mode contrast handling so text never drowns in the waves
-
-</details>
-
-<details open>
-<summary><b>🔍 Search with Live Tide-Suggestions</b></summary>
-<br/>
-
-- Google-backed search box with autocomplete (`chrome.search` + `google.com/complete`)
-- Favicon-fetched shortcut icons, suggestion arrow UI, external-link affordance
-- Keyboard-first: type, arrow, enter — set sail in seconds
-
-</details>
-
-<details open>
-<summary><b>🧭 Shortcuts Rigging</b></summary>
-<br/>
-
-- Drag-to-reorder shortcuts with drag-handle, edit, paste & delete controls
-- **24 built-in sigils:** GitHub, Gmail, Drive, YouTube, Netflix, LeetCode, Codeforces, CodeChef, Coursera, edX, LinkedIn, Reddit, X, Instagram, WhatsApp, TikTok, Facebook, Pinterest, Teams, Chat, Gemini, Canva, Google + custom links
-- Light-mode aware tiles (`on-light`), canvas-mode dimmed glass (`rgba(0,0,0,.62)`)
-
-</details>
-
-<details open>
-<summary><b>🌊 Wallpapers — 20 Horizons</b></summary>
-<br/>
-
-| # | File | # | File |
-|---|------|---|------|
-| 01 | `wallpaper/1.jpg` | 11 | `wallpaper/11.jpg` |
-| 02 | `wallpaper/2.jpg` | 12 | `wallpaper/12.jpg` |
-| 03 | `wallpaper/3.jpg` | 13 | `wallpaper/13.jpg` |
-| 04 | `wallpaper/4.jpg` | 14 | `wallpaper/14.jpg` |
-| 05 | `wallpaper/5.jpg` | 15 | `wallpaper/15.jpg` |
-| 06 | `wallpaper/6.jpg` | 16 | `wallpaper/16.jpg` |
-| 07 | `wallpaper/7.jpg` | 17 | `wallpaper/17.jpg` |
-| 08 | `wallpaper/8.jpg` | 18 | `wallpaper/18.jpg` |
-| 09 | `wallpaper/9.jpg` | 19 | `wallpaper/19.jpg` |
-| 10 | `wallpaper/10.jpg` | 20 | `wallpaper/20.jpg` |
-
-Shuffle the tide or drop anchor on one favourite.
-
-</details>
-
-<details open>
-<summary><b>🎧 Lofi Hold — 10 Tracks</b></summary>
-<br/>
-
-| ⚓ Track | File | Mood |
-|---------|------|------|
-| `calm` | `lofi/calm.webm` | flat sea, slow breath |
-| `golden_wind` | `lofi/golden_wind.webm` | sunset sailing |
-| `katawaredoki` | `lofi/katawaredoki.webm` | twilight harbour |
-| `peace` | `lofi/peace.webm` | still water |
-| `pink` | `lofi/pink.webm` | dawn haze |
-| `river` | `lofi/river.webm` | drifting current |
-| `stillness` | `lofi/stillness.webm` | becalmed noon |
-| `suzume` | `lofi/suzume.webm` | open sky |
-| `totoro` | `lofi/totoro.webm` | forest shore |
-| `allowed_to_pause` | `lofi/allowed_to_pause.webm` | permission to rest |
-
-Full helm controls: **play / pause / prev / next + volume slider**, all in one frosted control bar.
-
-</details>
+---
 
 <details>
-<summary><b>🎛️ Customisation & Ship's Bells</b></summary>
-<br/>
+<summary><b>🎵 The Shanty Manifest</b></summary>
 
-- Colour-picker popover for accents, light-mode + canvas-mode theming
-- UI sounds: `system/click_2.webm`, `system/toggle-sound.webm`
-- Google icon, suggestion arrow, report-issue, next / prev / play / pause icon set in `system/`
-- Everything stored locally — your helm, your rules
+<br />
+
+These aren't playlists. These are the songs that kept men alive on ships that tried to kill them.
+
+| # | Song | The Story |
+|---|---|---|
+| 1 | **Randy Dandy Oh** | Sung pulling anchor. The crew heaves together or nobody moves. |
+| 2 | **Drunken Sailor** | The most famous shanty ever written. Everyone knows the words. Nobody knows who wrote them. |
+| 3 | **Santiana** | About General Santa Anna. The sailors didn't care about the politics — they cared about the rhythm. |
+| 4 | **Bonny Ship the Diamond** | A farewell from Peterhead as the whaling fleet leaves. Some of those ships didn't come back. |
+| 5 | **Leave Her, Johnny** | Only sung at the end of a voyage. The one time the crew could complain about the captain, the food, and the sea herself. |
+| 6 | **Wellerman** | Supply ships and long waiting. A song about hoping for something that might not come. |
+| 7 | **Spanish Ladies** | The Royal Navy sailing home. Real landmarks hidden in the lyrics — singing their way back by memory. |
+| 8 | **South Australia** | Ships carrying people to a new life. Half hope, half grief. The shore behind them getting smaller. |
+
+<br />
+
+<sub>More songs arrive with the tide.</sub>
 
 </details>
 
 ---
 
+## 🛠️ Come Aboard
+
+No build step. No terminal wizardry. This is a static unpacked extension — `index.html` + `manifest.json` sail as-is.
+
+1. Unpack the release ZIP and remember the folder (e.g. `Aphros_|_New_Tab/`)
+2. Open `chrome://extensions/` in Chrome
+3. Enable **Developer mode** (top-right)
+4. Click **Load unpacked**
+5. Select the unpacked folder
+6. Open a new tab — you're at sea
+
+> Menu path works too: `⋮ > More tools > Extensions`. See [`HOW_TO_INSTALL.txt`](./HOW_TO_INSTALL.txt) for the same steps.
+
+### Chrome Web Store
+
+> The ship is still being fitted. When she's ready, she'll be listed.
+
+---
+
+## 🧭 Why?
+
+The internet is loud. Every tab you open wants something from you — your attention, your data, your time, your click.
+
+Aphros doesn't want anything.
+
+It wants to be **three seconds of quiet** before you do whatever you came to do. The sea doesn't optimize. The fog doesn't have a newsletter. The shanties don't have a premium tier.
+
+This is free. This is open. For anyone who ever looked at the water and forgot what they were worried about.
+
+---
+
+## 🪦 Dedication
+
 <div align="center">
 
-## 👀 Preview
+*For the unnamed.*
 
-</div>
+*For the ones who sailed out and never sailed back.*
 
-<div align="center">
-  <img src="system/aphros.png" width="180" alt="Aphros logo"/>
-  <br/>
-  <sub><i>Drop your screenshots here — the sea loves witnesses.</i></sub>
-  <br/><br/>
-  <!--
-    Suggested shots:
-    docs/preview-clock.png      — glass clock over wallpaper/7.jpg
-    docs/preview-lofi.png       — lofi bar open
-    docs/preview-shortcuts.png  — shortcut grid + edit mode
-    docs/preview-light.png      — light-mode / canvas-mode
-  -->
-  <table>
-    <tr>
-      <td align="center"><b>🌑 Dark Tide</b><br/><sub><code>wallpaper/7.jpg</code> + glass clock</sub></td>
-      <td align="center"><b>☀️ Canvas Light</b><br/><sub>clock-on-light + canvas mode</sub></td>
-    </tr>
-    <tr>
-      <td align="center"><b>🎧 Lofi Hold</b><br/><sub>play / next / volume</sub></td>
-      <td align="center"><b>🧭 Rigging</b><br/><sub>drag • edit • delete</sub></td>
-    </tr>
-  </table>
+*For the crews swallowed by storms that history forgot.*
+
+*For every soul the sea claimed and the shore stopped waiting for.*
+
+<br />
+
+*This tab is their lantern in the fog.*
+
 </div>
 
 ---
 
 <div align="center">
 
-## ⚓ Hoist the Sails — Install
+<sub>Made with salt, silence, and too many late nights listening to shanties.</sub>
 
-</div>
+<br />
 
-### Option A — Load unpacked (2 minutes, recommended)
+<sub>Free as the wind. Aphros v2.5 — <i>In memory of those, who chose the sea.</i> ⚓</sub>
 
-```bash
-# 1. Unpack the release ZIP and remember this folder:
-#    Aphros_|_New_Tab/
-#
-# 2. Open in Chrome:
-chrome://extensions
-```
+<br /><br />
 
-1. Toggle **Developer mode** (top-right) 🛠️
-2. Click **Load unpacked** 📦
-3. Select the `Aphros_|_New_Tab` folder
-4. Open a new tab — *listen for the gulls* 🕊️
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1a,50:112240,100:1a3a5c&height=150&section=footer&text=Fair%20winds%2C%20sailor&fontSize=24&fontColor=C9D6DF&animation=fadeIn&fontAlignY=55" width="100%" alt="Fair winds, sailor" />
 
-> Full step-by-step with menu path (`⋮ > More tools > Extensions`) also lives in [`HOW_TO_INSTALL.txt`](./HOW_TO_INSTALL.txt).
-
-### Option B — Clone & sail from source
-
-```bash
-git clone <your-repo-url>
-# open chrome://extensions → Developer mode → Load unpacked → select the repo folder
-```
-
-No build step needed — `index.html` + `manifest.json` + `assets/` sail as-is.
-
----
-
-<div align="center">
-
-## 🗺️ Chart of the Hold — Project Structure
-
-</div>
-
-```
-Aphros_|_New_Tab/
-├── index.html              # ⛵ entry — mounts #root, loads active bundle
-├── manifest.json           # 🧭 Manifest V3 — chrome_url_overrides.newtab
-├── HOW_TO_INSTALL.txt      # ⚓ human install chart
-├── assets/                 # 📦 Vite build (active pair + history)
-│   ├── index-BSx0kpCz.js   # ✅ active JS
-│   └── index-Dm02QjNV.css  # ✅ active CSS
-├── wallpaper/              # 🌊 1.jpg … 20.jpg — the horizons
-├── lofi/                   # 🎧 10 × .webm tides
-├── Typefaces/              # ✒️ 21 fonts (Eugusto → Minecraft)
-├── Icons/                  # 🧭 24 shortcut sigils (svg)
-├── system/                 # ⚙️ logo, player + edit icons, UI sounds
-└── README.md               # 📜 you are here
-```
-
-> Active bundle: `assets/index-BSx0kpCz.js` + `assets/index-Dm02QjNV.css` (referenced by `index.html`). Other hashed files in `assets/` are older Vite builds — safe to prune on next release.
-
----
-
-<div align="center">
-
-## 🧭 Permissions — Why the Ship Asks
-
-</div>
-
-| Permission | Why |
-|------------|-----|
-| `"search"` | powers the address-bar-style search provider |
-| `https://www.google.com/s2/favicons*` | fetches shortcut favicons |
-| `https://www.google.com/complete/*` | live search suggestions |
-| `web_accessible_resources` (`Typefaces/*`, `Icons/*`, `system/*`, `lofi/*`, `wallpaper/*`) | lets the new-tab page load local fonts, icons, sounds & seas |
-
-No analytics. No remote code. The ship never phones home. 🕊️
-
----
-
-<div align="center">
-
-## 🛠️ For Shipwrights — Tech Log
-
-</div>
-
-- **Runtime:** Chrome Extension, Manifest V3, `chrome_url_overrides.newtab → index.html`
-- **UI:** React (jsx-runtime) + Vite hashed build, single `#root` mount
-- **Styling:** hand-rolled CSS — glassmorphism, `light-mode-active` / `canvas-mode-active` / `clock-on-light` / `on-light` theme hooks, custom volume slider, colour-picker popover
-- **Media:** `.webm` audio tides + UI sounds, `.jpg` wallpapers, `.svg` icon rigging
-- **Fonts:** 21 `@font-face` families (`FontEugusto`, `FontAugillion`, `FontAdventuro`, `FontGazpacho`, `FontBrulia`, `FontAmericanTypewriter`, `FontEBGaramond`, …)
-
-```bash
-# sanity checks afore ye push
-git status --short
-git log --oneline -10
-# then load the folder as an unpacked extension and open a new tab
-```
-
-Ideas for the next voyage: shuffle-weight per wallpaper, per-hour tide autoplay, shanty lyric ticker, synced settings via `chrome.storage.sync`, Firefox port. PRs welcome — bring rum. 🍻
-
----
-
-<div align="center">
-
-## 🌊 🕯️ In Memoriam 🕯️ 🌊
-
-*For the ones who never made harbour.*
-
-[![Memorial](https://img.shields.io/badge/we%20remember-the%20fallen-0a2540?style=for-the-badge&logo=anchor&logoColor=4fc3f7)](https://en.wikipedia.org/wiki/Sea_shanty)
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4fc3f7,50:1238ab,100:0a2540&height=160&section=footer&text=Fair%20winds%2C%20sailor&fontSize=28&fontColor=ffffff&animation=fadeIn" width="100%" alt="Animated wave footer"/>
-  <br/>
-  <sub>Built with salt, static & shanties · Aphros v2.5 · <i>In memory of those, who chose the sea.</i> ⚓</sub>
-  <br/><br/>
-  <p>🌊 ⚓ 🌊 ⚓ 🌊 ⚓ 🌊 ⚓ 🌊 ⚓ 🌊</p>
 </div>
