@@ -19,19 +19,8 @@
   <br />
   <sub><i>Your new tab. A ship deck under moonlight.</i></sub>
 
-<img width="1919" height="1079" alt="Aphros new tab screenshot" src="https://github.com/user-attachments/assets/a53acff9-7d9b-48ee-b3c9-9b2451625e9a" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/a53acff9-7d9b-48ee-b3c9-9b2451625e9a" />
 
-  <table>
-    <tr>
-      <td align="center"><img src="docs/preview-sea.png" width="100%" alt="Glass clock over the sea" /><br /><sub><b>🌑 Dark Tide</b> — glass clock</sub></td>
-    </tr>
-    <tr>
-      <td align="center"><img src="docs/preview-shanty.png" width="100%" alt="Shanty player open" /><br /><sub><b>🎧 Shanty Player</b> — play / next / queue</sub></td>
-    </tr>
-    <tr>
-      <td align="center"><img src="docs/preview-harbour.png" width="100%" alt="Shortcuts and search" /><br /><sub><b>🧭 Harbour</b> — search + shortcuts</sub></td>
-    </tr>
-  </table>
 
 </div>
 
