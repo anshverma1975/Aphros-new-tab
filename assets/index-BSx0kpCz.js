@@ -10929,7 +10929,7 @@ const Ua = {
   Yv = "/system/next-icon.svg",
   Bv = "/system/prev-icon.svg",
   ae = new Audio;
-ae.loop = !0;
+ae.loop = !1;
 const Xv = () => {
     const c = localStorage.getItem("lofiPlayerState");
     try {
@@ -10979,6 +10979,10 @@ const Ct = {
 };
 ae.addEventListener("volumechange", Ct.saveState);
 ae.addEventListener("loadeddata", Ct.saveState);
+ae.addEventListener("ended", () => {
+  let n = Math.floor(Math.random() * Kl.length);
+  Kl.length > 1 && n === tl && (n = (n + 1) % Kl.length), tl = n, ae.src = Kl[tl].src, Ct.play()
+});
 Ct.init();
 const Dh = U.createContext(),
   Ce = () => U.useContext(Dh),
