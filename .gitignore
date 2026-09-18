@@ -1,33 +1,13 @@
-# ═══════════════════════════════════════════════════════════════════════
-#  Áphros | New Tab  —  .gitignore
-#
-#  This file sits at the root of the extension folder, which is also the
-#  root of this repository. Only the extension is published, so there is
-#  nothing outside this folder to exclude here.
-# ═══════════════════════════════════════════════════════════════════════
 
-
-# ── Local tooling and editor config ────────────────────────────────────
-# Neither affects the built extension or how Chrome runs it.
 .vscode/
 opencode.json
 
-
-# ── Operating-system cruft ─────────────────────────────────────────────
 .DS_Store
 Thumbs.db
 desktop.ini
 
 
-# ── Stale Vite bundles in assets/ ──────────────────────────────────────
-# index.html loads exactly two of the fourteen files in that folder:
-#
-#   assets/index-BSx0kpCz.js     <- active JavaScript
-#   assets/index-Dm02QjNV.css    <- active stylesheet
-#
-# The twelve below are older hashed builds left behind by Vite. Chrome
-# never requests them and they add ~3.2 MB. They are ignored rather than
-# deleted so your local extension folder stays exactly as it is.
+
 assets/index--9cPjT0Y.js
 assets/index-BNPSe0qO.js
 assets/index-C3YtPn5h.js
@@ -42,12 +22,6 @@ assets/index-icZXRB1A.css
 assets/index-k3HSyNAC.js
 
 
-# ── Assets nothing references ──────────────────────────────────────────
-# Each of these was checked against the active JS bundle, the active
-# stylesheet, index.html and manifest.json and has zero occurrences:
-# nothing loads them.
-#   system/default.jpg      the old fixed fallback wallpaper (~1 MB)
-#   system/Vectorkairos.svg the pre-rebrand logo
 system/default.jpg
 system/Vectorkairos.svg
 system/del-icon.svg
