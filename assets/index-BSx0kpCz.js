@@ -10873,35 +10873,56 @@ const Ua = {
     component: Nv
   }],
   Kl = [{
-    src: "/lofi/peace.webm",
-    name: "sepia"
+    src: "/shanties/Wellerman.webm",
+    name: "Wellerman"
   }, {
-    src: "/lofi/allowed_to_pause.webm",
-    name: "room 505"
+    src: "/shanties/Drunken%20sailor.webm",
+    name: "Drunken Sailor"
   }, {
-    src: "/lofi/calm.webm",
-    name: "you came this far"
+    src: "/shanties/Randy%20Dandy%20Oh.webm",
+    name: "Randy Dandy Oh"
   }, {
-    src: "/lofi/golden_wind.webm",
-    name: "golden wind"
+    src: "/shanties/Diamond.webm",
+    name: "Bonny Ship the Diamond"
   }, {
-    src: "/lofi/pink.webm",
-    name: "pink pan"
+    src: "/shanties/100%20years%20ago.webm",
+    name: "100 Years Ago"
   }, {
-    src: "/lofi/river.webm",
-    name: "a heart that won’t quit"
+    src: "/shanties/bones.webm",
+    name: "Bones"
   }, {
-    src: "/lofi/stillness.webm",
-    name: "sunday loops"
+    src: "/shanties/bully%20in%20the%20alley.webm",
+    name: "Bully in the Alley"
   }, {
-    src: "/lofi/suzume.webm",
-    name: "doors keep appearing"
+    src: "/shanties/County%20down.webm",
+    name: "County Down"
   }, {
-    src: "/lofi/totoro.webm",
-    name: "barefoot in the garden"
+    src: "/shanties/Dead%20Horse.webm",
+    name: "Dead Horse"
   }, {
-    src: "/lofi/katawaredoki.webm",
-    name: "slipped moment"
+    src: "/shanties/Fare%20ye%20well.webm",
+    name: "Fare Ye Well"
+  }, {
+    src: "/shanties/Fish%20in%20the%20sea.webm",
+    name: "Fish in the Sea"
+  }, {
+    src: "/shanties/flute.webm",
+    name: "Flute"
+  }, {
+    src: "/shanties/Good%20morning%20ladies.webm",
+    name: "Good Morning Ladies"
+  }, {
+    src: "/shanties/Leave%20her%20johhny.webm",
+    name: "Leave Her Johnny"
+  }, {
+    src: "/shanties/Old%20shipmates.webm",
+    name: "Old Shipmates"
+  }, {
+    src: "/shanties/Running%20down%20to%20cuba.webm",
+    name: "Running Down to Cuba"
+  }, {
+    src: "/shanties/the%20fishes.webm",
+    name: "The Fishes"
   }],
   Hv = "/system/play-icon.svg",
   qv = "/system/pause-icon.svg",
