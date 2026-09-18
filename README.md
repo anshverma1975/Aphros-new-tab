@@ -4,14 +4,6 @@
 
   <img src="https://readme-typing-svg.demolab.com?font=Lora&size=18&pause=2000&color=6B8BA4&center=true&vCenter=true&width=620&height=40&lines=Every+new+tab+is+a+voyage.+Dark+seas.+Old+songs.+Quiet+fog." alt="Every new tab is a voyage. Dark seas. Old songs. Quiet fog." />
 
-  <p>
-    <img src="https://img.shields.io/badge/Chrome-Extension-0a0f1a?style=for-the-badge&logo=googlechrome&logoColor=C9D6DF" alt="Chrome Extension" />
-    <img src="https://img.shields.io/badge/Manifest-V3-112240?style=for-the-badge&logoColor=C9D6DF" alt="Manifest V3" />
-    <img src="https://img.shields.io/badge/Version-2.5-1a3a5c?style=for-the-badge" alt="Version 2.5" />
-    <img src="https://img.shields.io/badge/Tracking-None-2a4a6a?style=for-the-badge" alt="No tracking" />
-    <img src="https://img.shields.io/badge/Made_With-Soul-6B8BA4?style=for-the-badge" alt="Made with soul" />
-  </p>
-
 </div>
 
 ---
@@ -27,11 +19,8 @@
   <br />
   <sub><i>Your new tab. A ship deck under moonlight.</i></sub>
 
-  <!-- Add screenshots here, e.g.:
-    docs/preview-sea.png      — glass clock over the sea
-    docs/preview-shanty.png   — shanty player open
-    docs/preview-harbour.png  — shortcuts + search
-  -->
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/a53acff9-7d9b-48ee-b3c9-9b2451625e9a" />
+
 
 </div>
 
@@ -41,11 +30,11 @@
 
 **Aphros** replaces your Chrome new tab with the sea.
 
-No dashboards. No feeds. No widgets fighting for your eyes. Just dark water under the moon, a clock made of frosted glass, and somewhere below deck — the crew is singing.
+I always had a fascination with the sea. So vast, so majestic, so unforgiving.
 
-It was built for the ones who stare at the ocean and feel something they can't name. Every time you open a new tab, the fog rolls in. Waves catch silver. The internet goes quiet. And for a breath, you're standing at the bow of a ship that left port a long time ago.
+But I also never forgot the cost. Every horizon we chase was charted by hands we will never see, by sailors who sank unnamed. Aphros brings that gratitude to your browser. It’s more than a new tab—it’s a shanty player, a horizon, and a memorial for everyone who dedicated their life silently to the sea
 
-**No accounts. No analytics. No tracking. Just wind, foam, and focus.**
+So sail aboard, sing loud, and carry their story forward.
 
 ---
 
@@ -92,9 +81,7 @@ These aren't playlists. These are the songs that kept men alive on ships that tr
 
 ---
 
-## 🛠️ Come Aboard
-
-No build step. No terminal wizardry. This is a static unpacked extension — `index.html` + `manifest.json` sail as-is.
+## 🛠️ Installation steps
 
 1. Unpack the release ZIP and remember the folder (e.g. `Aphros_|_New_Tab/`)
 2. Open `chrome://extensions/` in Chrome
@@ -107,19 +94,21 @@ No build step. No terminal wizardry. This is a static unpacked extension — `in
 
 ### Chrome Web Store
 
-> The ship is still being fitted. When she's ready, she'll be listed.
+> Will add this extension there soon as well ! 
 
 ---
 
 ## 🧭 Why?
 
-The internet is loud. Every tab you open wants something from you — your attention, your data, your time, your click.
+I listen to a lot of songs, but none of them give as much freedom as a shanty does. There is no set way to sing a shanty , never will. You do not need to be good. You do not need to be trained. You just sing. I think that is why I love them. Shanties are not performative, shanties are sung for yourself
 
-Aphros doesn't want anything.
+I wanted to build something that captures that freedom. But I also wanted to build something that honors the immeasurable cost of it. People forget how much of humanity has advanced because of the people who lost their lives to the sea. And that word, forget, it haunts me. 
 
-It wants to be **three seconds of quiet** before you do whatever you came to do. The sea doesn't optimize. The fog doesn't have a newsletter. The shanties don't have a premium tier.
+We talk about discovery and trade and progress like they are abstract things. They are not. They are bones. They are the trade routes, the migrations, the discoveries, they all rest on the bones of sailors we will never know. Because they did not just die. They were erased. The trade routes, the migrations, the discoveries, they all rest on the bones of sailors. Men who died screaming in the dark. Men who drowned alone. Men who were never found. And the world just kept moving.
 
-This is free. This is open. For anyone who ever looked at the water and forgot what they were worried about.
+Aphros is my way of paying that debt. It gives you a shanty to sing, a horizon to look at, and a silent reminder of the unseen hands that carried us here. It is not enough. It will never be enough. But it is all that I can do. It is me, saying thank you to people who will never hear it.
+
+**And maybe, just maybe, when you open this tab and hear that shanty play, you will say thank you too.**
 
 ---
 
