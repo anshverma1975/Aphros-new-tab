@@ -10929,7 +10929,7 @@ const Ua = {
   Yv = "/system/next-icon.svg",
   Bv = "/system/prev-icon.svg",
   ae = new Audio;
-ae.loop = !1;
+ae.loop = !1, ae.preload = "auto";
 const Xv = () => {
     const c = localStorage.getItem("lofiPlayerState");
     try {
