@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200">
+  <defs>
+    <linearGradient id="bgDusk" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#0a1220"/>
+      <stop offset="48%" style="stop-color:#2b3a55"/>
+      <stop offset="68%" style="stop-color:#7a6a5e"/>
+      <stop offset="78%" style="stop-color:#d9a86c"/>
+      <stop offset="82%" style="stop-color:#1a2a3d"/>
+      <stop offset="100%" style="stop-color:#070d16"/>
+    </linearGradient>
+    <radialGradient id="sunDusk" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" style="stop-color:#FFE3B0" stop-opacity="0.95"/>
+      <stop offset="45%" style="stop-color:#E8B573" stop-opacity="0.35"/>
+      <stop offset="100%" style="stop-color:#E8B573" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="textDusk" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#FFF4E0">
+        <animate attributeName="stop-color" values="#FFF4E0;#E8D9BE;#FFF4E0" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" style="stop-color:#C9D6DF">
+        <animate attributeName="stop-color" values="#C9D6DF;#FFF4E0;#C9D6DF" dur="6s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <filter id="glowDusk" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="seaDusk"><rect x="0" y="132" width="800" height="68" rx="0"/></clipPath>
+  </defs>
+
+  <rect width="800" height="200" fill="url(#bgDusk)" rx="16"/>
+
+  <!-- last stars -->
+  <g fill="#E8EEF3">
+    <circle cx="120" cy="26" r="1.2" opacity="0.45"><animate attributeName="opacity" values="0.45;0.08;0.45" dur="4.2s" repeatCount="indefinite"/></circle>
+    <circle cx="250" cy="44" r="1" opacity="0.32"><animate attributeName="opacity" values="0.32;0.06;0.32" dur="5.2s" repeatCount="indefinite"/></circle>
+    <circle cx="620" cy="24" r="1.2" opacity="0.45"><animate attributeName="opacity" values="0.45;0.08;0.45" dur="4.6s" repeatCount="indefinite"/></circle>
+    <circle cx="710" cy="48" r="1" opacity="0.32"><animate attributeName="opacity" values="0.32;0.06;0.32" dur="5.6s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <!-- low sun sinking -->
+  <circle cx="400" cy="130" r="52" fill="url(#sunDusk)" opacity="0.9">
+    <animate attributeName="opacity" values="0.9;0.65;0.9" dur="5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="400" cy="130" r="12" fill="#FFF1D2" opacity="0.95" filter="url(#glowDusk)"/>
+  <line x1="40" y1="132" x2="760" y2="132" stroke="#FFE3B0" stroke-width="1" opacity="0.5"/>
+
+  <!-- ship sailing home, smaller on horizon -->
+  <g opacity="0.9">
+    <animateTransform attributeName="transform" type="translate" values="0 0; -16 0; 0 0" dur="20s" repeatCount="indefinite"/>
+    <polygon points="490,126 540,126 532,133 498,133" fill="#0a1220"/>
+    <line x1="506" y1="126" x2="506" y2="104" stroke="#0a1220" stroke-width="2"/>
+    <line x1="524" y1="126" x2="524" y2="108" stroke="#0a1220" stroke-width="2"/>
+    <polygon points="506,104 506,124 490,124" fill="#0a1220" opacity="0.85"/>
+    <polygon points="524,108 524,124 538,124" fill="#0a1220" opacity="0.85"/>
+  </g>
+
+  <!-- gulls heading home -->
+  <g stroke="#0a1220" stroke-width="1.4" fill="none" opacity="0.7">
+    <g>
+      <path d="M300 62 Q 305 57 310 62 Q 315 57 320 62"/>
+      <animateTransform attributeName="transform" type="translate" values="0 0; -28 -6; 0 0" dur="10s" repeatCount="indefinite"/>
+    </g>
+    <g>
+      <path d="M250 46 Q 254 42 258 46 Q 262 42 266 46"/>
+      <animateTransform attributeName="transform" type="translate" values="0 0; -22 -8; 0 0" dur="12s" repeatCount="indefinite"/>
+    </g>
+    <g>
+      <path d="M540 54 Q 544 50 548 54 Q 552 50 556 54"/>
+      <animateTransform attributeName="transform" type="translate" values="0 0; 26 -6; 0 0" dur="9s" repeatCount="indefinite"/>
+    </g>
+  </g>
+
+  <!-- foreground sea -->
+  <g clip-path="url(#seaDusk)">
+    <rect x="0" y="132" width="800" height="68" fill="#070d16" opacity="0.88"/>
+    <line x1="340" y1="144" x2="460" y2="144" stroke="#FFE3B0" stroke-width="2" opacity="0.5">
+      <animate attributeName="opacity" values="0.5;0.2;0.5" dur="3s" repeatCount="indefinite"/>
+    </line>
+    <line x1="320" y1="158" x2="480" y2="158" stroke="#E8B573" stroke-width="2.5" opacity="0.4">
+      <animate attributeName="opacity" values="0.4;0.15;0.4" dur="3.8s" repeatCount="indefinite"/>
+    </line>
+    <path d="M-100 150 Q -50 144 0 150 T 100 150 T 200 150 T 300 150 T 400 150 T 500 150 T 600 150 T 700 150 T 800 150 T 900 150" stroke="#5b7a93" stroke-width="1.3" fill="none" opacity="0.5">
+      <animateTransform attributeName="transform" type="translate" values="0 0; -100 0; 0 0" dur="9s" repeatCount="indefinite"/>
+    </path>
+    <path d="M-100 170 Q -50 164 0 170 T 100 170 T 200 170 T 300 170 T 400 170 T 500 170 T 600 170 T 700 170 T 800 170 T 900 170" stroke="#3d5266" stroke-width="1.1" fill="none" opacity="0.5">
+      <animateTransform attributeName="transform" type="translate" values="-100 0; 0 0; -100 0" dur="11s" repeatCount="indefinite"/>
+    </path>
+  </g>
+
+  <!-- text -->
+  <text x="400" y="56" text-anchor="middle" font-family="Georgia, serif" font-size="36" font-weight="bold" fill="url(#textDusk)" filter="url(#glowDusk)">Fair winds, sailor<animate attributeName="opacity" values="1;1;0.55;1;1;0.8;1" keyTimes="0;0.68;0.7;0.72;0.8;0.82;1" dur="5s" repeatCount="indefinite"/></text>
+  <text x="400" y="78" text-anchor="middle" font-family="Georgia, serif" font-style="italic" font-size="14" letter-spacing="1" fill="#E8D9BE">In memory of those, who chose the sea.</text>
+</svg>

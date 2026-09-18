@@ -1,8 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1a,50:112240,100:1a3a5c&height=220&section=header&text=Aphros%20%7C%20New%20Tab&fontSize=48&fontColor=C9D6DF&animation=fadeIn&fontAlignY=38&desc=In%20memory%20of%20those%2C%20who%20chose%20the%20sea&descAlignY=60&descSize=18" width="100%" alt="Aphros animated wave header" />
-
-  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=40&pause=1500&color=C9D6DF&center=true&vCenter=true&width=700&height=60&lines=%E2%9A%93+Aphros+%7C+New+Tab" alt="Aphros | New Tab" />
+  <img src="docs/banner-dawn-voyage.svg" width="100%" alt="Aphros | New Tab — dawn voyage. For the lost. For the voyage ahead." />
 
   <img src="https://readme-typing-svg.demolab.com?font=Lora&size=18&pause=2000&color=6B8BA4&center=true&vCenter=true&width=620&height=40&lines=Every+new+tab+is+a+voyage.+Dark+seas.+Old+songs.+Quiet+fog." alt="Every new tab is a voyage. Dark seas. Old songs. Quiet fog." />
 
@@ -155,6 +153,6 @@ This is free. This is open. For anyone who ever looked at the water and forgot w
 
 <br /><br />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1a,50:112240,100:1a3a5c&height=150&section=footer&text=Fair%20winds%2C%20sailor&fontSize=24&fontColor=C9D6DF&animation=fadeIn&fontAlignY=55" width="100%" alt="Fair winds, sailor" />
+<img src="docs/banner-dusk-farewell.svg" width="100%" alt="Fair winds, sailor — in memory of those, who chose the sea." />
 
 </div>
