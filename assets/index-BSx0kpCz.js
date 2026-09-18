@@ -10281,7 +10281,7 @@ function Nv({
     setVolume: S
   } = Ce();
   U.useEffect(() => {
-    Ot("lofiPlayerState", {}).isPlaying && (console.log("Attempting to auto-resume playback..."), Ct.play())
+    console.log("Casting off with a random shanty..."), Ct.play()
   }, []);
   const g = (E, R) => {
     s("lofiPlayer", {
@@ -10304,7 +10304,7 @@ function Nv({
         children: [f.jsx("h4", {
           className: "widget-title",
           title: (D = m.currentTrack) == null ? void 0 : D.name,
-          children: ((C = m.currentTrack) == null ? void 0 : C.name) || "Lofi Beats"
+          children: ((C = m.currentTrack) == null ? void 0 : C.name) || "Sea Shanty"
         }), f.jsx("img", {
           src: qa,
           alt: "drag",
@@ -10869,7 +10869,7 @@ const Ua = {
     component: Dv
   }, {
     id: "lofiPlayer",
-    name: "Lofi Player",
+    name: "Shanty Player",
     component: Nv
   }],
   Kl = [{
@@ -10939,7 +10939,7 @@ const Xv = () => {
     }
   },
   Eh = Xv();
-let tl = Eh.trackIndex ?? 0;
+let tl = Math.floor(Math.random() * Kl.length);
 const Ct = {
   init: () => {
     ae.src = Kl[tl].src, ae.volume = Eh.volume ?? .3
