@@ -90,7 +90,7 @@ These aren't playlists. These are the songs that kept men alive on ships that tr
 5. Select the unpacked folder
 6. Open a new tab — you're at sea
 
-> Menu path works too: `⋮ > More tools > Extensions`. See [`HOW_TO_INSTALL.txt`](./HOW_TO_INSTALL.txt) for the same steps.
+> Menu path works too: `⋮ > More tools > Extensions`.
 
 ### Chrome Web Store
 
