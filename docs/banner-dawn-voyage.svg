@@ -89,6 +89,6 @@
   </g>
 
   <!-- text -->
-  <text x="400" y="52" text-anchor="middle" font-family="Georgia, serif" font-size="38" font-weight="bold" fill="url(#textDawn)" filter="url(#glowDawn)">⚓ Aphros | New Tab</text>
-  <text x="400" y="74" text-anchor="middle" font-family="Georgia, serif" font-style="italic" font-size="13.5" fill="#E8D9BE">Dawn through grey clouds — another voyage begins.</text>
+  <text x="400" y="52" text-anchor="middle" font-family="Georgia, serif" font-size="38" font-weight="bold" fill="url(#textDawn)" filter="url(#glowDawn)">⚓ Aphros | New Tab<animate attributeName="opacity" values="1;1;0.55;1;1;0.8;1" keyTimes="0;0.68;0.7;0.72;0.8;0.82;1" dur="5s" repeatCount="indefinite"/></text>
+  <text x="400" y="74" text-anchor="middle" font-family="Georgia, serif" font-style="italic" font-size="14" letter-spacing="1" fill="#E8D9BE">For the lost. For the voyage ahead.</text>
 </svg>
