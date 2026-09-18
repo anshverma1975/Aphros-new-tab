@@ -17,10 +17,10 @@
   <img src="system/aphros.png" width="160" alt="Aphros logo" />
 
   <br />
-  <sub><i>Your new tab. A ship deck under moonlight.</i></sub>
+  
 
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/a53acff9-7d9b-48ee-b3c9-9b2451625e9a" />
-
+<sub><i>Your new tab. A ship deck under moonlight.</i></sub>
 
 </div>
 
